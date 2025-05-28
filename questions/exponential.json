@@ -1,0 +1,86 @@
+[
+  {"question":"2^3 = ?","options":[
+    {"text":"6","correct":false},
+    {"text":"8","correct":true},
+    {"text":"9","correct":false},
+    {"text":"4","correct":false}
+  ]
+  },
+  {"question":"3^4 = ?","options":[
+    {"text":"64","correct":true},
+    {"text":"81","correct":false},
+    {"text":"72","correct":false},
+    {"text":"48","correct":false}
+  ]
+  },
+  {"question":"5^2 = ?","options":[
+    {"text":"10","correct":false},
+    {"text":"15","correct":false},
+    {"text":"25","correct":true},
+    {"text":"20","correct":false}
+  ]
+  },
+  {"question":"2^5 = ?","options":[
+    {"text":"32","correct":true},
+    {"text":"64","correct":false},
+    {"text":"16","correct":false},
+    {"text":"8","correct":false}
+  ]
+  },
+  {"question":"10^2 = ?","options":[
+    {"text":"100","correct":true},
+    {"text":"1000","correct":false},
+    {"text":"10","correct":false},
+    {"text":"20","correct":false}
+  ]
+  },
+  {"question":"4^3 = ?","options":[
+    {"text":"48","correct":false},
+    {"text":"64","correct":true},
+    {"text":"32","correct":false},
+    {"text":"16","correct":false}
+  ]
+  },
+  {"question":"3^3 = ?","options":[
+    {"text":"9","correct":false},
+    {"text":"27","correct":true},
+    {"text":"18","correct":false},
+    {"text":"81","correct":false}
+  ]
+  },
+  {"question":"6^2 = ?","options":[
+    {"text":"12","correct":false},
+    {"text":"36","correct":true},
+    {"text":"18","correct":false},
+    {"text":"24","correct":false}
+  ]
+  },
+  {"question":"7^2 = ?","options":[
+    {"text":"14","correct":false},
+    {"text":"49","correct":true},
+    {"text":"21","correct":false},
+    {"text":"28","correct":false}
+  ]
+  },
+  {"question":"2^10 = ?","options":[
+    {"text":"1024","correct":true},
+    {"text":"1000","correct":false},
+    {"text":"2048","correct":false},
+    {"text":"512","correct":false}
+  ]
+  },
+  {"question":"9^2 = ?","options":[
+    {"text":"18","correct":false},
+    {"text":"81","correct":true},
+    {"text":"27","correct":false},
+    {"text":"9","correct":false}
+  ]
+  },
+  {"question":"8^2 = ?","options":[
+    {"text":"16","correct":false},
+    {"text":"64","correct":true},
+    {"text":"32","correct":false},
+    {"text":"128","correct":false}
+  ]
+  }
+]

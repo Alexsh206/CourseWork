@@ -1,0 +1,191 @@
+[
+  {
+    "question": "Яке тіло обертання утворюється обертанням прямокутника навколо однієї зі сторін?",
+    "options": [
+      { "text": "циліндр", "correct": true },
+      { "text": "конус", "correct": false },
+      { "text": "сфера", "correct": false },
+      { "text": "тор", "correct": false }
+    ]
+  },
+  {
+    "question": "Яке тіло обертання утворюється обертанням прямокутного трикутника навколо одного з катетів?",
+    "options": [
+      { "text": "конус", "correct": true },
+      { "text": "циліндр", "correct": false },
+      { "text": "сфера", "correct": false },
+      { "text": "призма", "correct": false }
+    ]
+  },
+  {
+    "question": "Яке тіло обертання утворюється обертанням півкола навколо свого діаметра?",
+    "options": [
+      { "text": "сфера", "correct": true },
+      { "text": "циліндр", "correct": false },
+      { "text": "конус", "correct": false },
+      { "text": "тор", "correct": false }
+    ]
+  },
+  {
+    "question": "Яке тіло обертання утворюється обертанням кола навколо осі, що не проходить через центр?",
+    "options": [
+      { "text": "тор", "correct": true },
+      { "text": "циліндр", "correct": false },
+      { "text": "конус", "correct": false },
+      { "text": "сфера", "correct": false }
+    ]
+  },
+  {
+    "question": "Об'єм циліндра обчислюється за формулою?",
+    "options": [
+      { "text": "πr²h", "correct": true },
+      { "text": "2πrh", "correct": false },
+      { "text": "πr²", "correct": false },
+      { "text": "2πr²h", "correct": false }
+    ]
+  },
+  {
+    "question": "Бічна поверхня циліндра обчислюється як?",
+    "options": [
+      { "text": "2πrh", "correct": true },
+      { "text": "πr²", "correct": false },
+      { "text": "πrh", "correct": false },
+      { "text": "πr²h", "correct": false }
+    ]
+  },
+  {
+    "question": "Загальна поверхня циліндра обчислюється як?",
+    "options": [
+      { "text": "2πr(h + r)", "correct": true },
+      { "text": "πr²h", "correct": false },
+      { "text": "πr(h + r)", "correct": false },
+      { "text": "2πr²", "correct": false }
+    ]
+  },
+  {
+    "question": "Об'єм конуса обчислюється за формулою?",
+    "options": [
+      { "text": "1/3 πr²h", "correct": true },
+      { "text": "πr²h", "correct": false },
+      { "text": "1/2 πr²h", "correct": false },
+      { "text": "2/3 πr²h", "correct": false }
+    ]
+  },
+  {
+    "question": "Бічна поверхня конуса обчислюється як?",
+    "options": [
+      { "text": "πrl", "correct": true },
+      { "text": "πr²", "correct": false },
+      { "text": "2πrl", "correct": false },
+      { "text": "1/3 πrl", "correct": false }
+    ]
+  },
+  {
+    "question": "Загальна поверхня конуса обчислюється як?",
+    "options": [
+      { "text": "πr(l + r)", "correct": true },
+      { "text": "πr²h", "correct": false },
+      { "text": "2πrl", "correct": false },
+      { "text": "πrl", "correct": false }
+    ]
+  },
+  {
+    "question": "Об'єм сфери обчислюється за формулою?",
+    "options": [
+      { "text": "4/3 πr³", "correct": true },
+      { "text": "πr²", "correct": false },
+      { "text": "2πr²", "correct": false },
+      { "text": "πr³", "correct": false }
+    ]
+  },
+  {
+    "question": "Площа поверхні сфери обчислюється як?",
+    "options": [
+      { "text": "4πr²", "correct": true },
+      { "text": "2πr²", "correct": false },
+      { "text": "πr²", "correct": false },
+      { "text": "4/3 πr³", "correct": false }
+    ]
+  },
+  {
+    "question": "Об'єм зрізаного конуса обчислюється як?",
+    "options": [
+      { "text": "1/3 πh (R² + R r + r²)", "correct": true },
+      { "text": "πh (R² + r²)", "correct": false },
+      { "text": "1/2 πh (R + r)", "correct": false },
+      { "text": "πh (R + r)", "correct": false }
+    ]
+  },
+  {
+    "question": "Бічна поверхня зрізаного конуса обчислюється як?",
+    "options": [
+      { "text": "π (R + r) s", "correct": true },
+      { "text": "π (R - r) s", "correct": false },
+      { "text": "π R r s", "correct": false },
+      { "text": "2π (R + r) s", "correct": false }
+    ]
+  },
+  {
+    "question": "Метод дисків для обчислення об'єму використовує формулу?",
+    "options": [
+      { "text": "V = π ∫[a,b] (f(x))² dx", "correct": true },
+      { "text": "V = 2π ∫[a,b] x f(x) dx", "correct": false },
+      { "text": "V = ∫[a,b] f(x) dx", "correct": false },
+      { "text": "V = π ∫[a,b] f(x) dx", "correct": false }
+    ]
+  },
+  {
+    "question": "Метод оболонок для обчислення об'єму використовує формулу?",
+    "options": [
+      { "text": "V = 2π ∫[a,b] x f(x) dx", "correct": true },
+      { "text": "V = π ∫[a,b] (f(x))² dx", "correct": false },
+      { "text": "V = π ∫[a,b] x² dx", "correct": false },
+      { "text": "V = 2π ∫[a,b] f(x) dx", "correct": false }
+    ]
+  },
+  {
+    "question": "Принцип Паппа для об'єму твердого обертання: V = ?",
+    "options": [
+      { "text": "A · d", "correct": true },
+      { "text": "P · d", "correct": false },
+      { "text": "2π ∫f(x) dx", "correct": false },
+      { "text": "π ∫(f(x))² dx", "correct": false }
+    ]
+  },
+  {
+    "question": "Принцип Паппа для площі поверхні: S = ?",
+    "options": [
+      { "text": "L · d", "correct": true },
+      { "text": "A · d", "correct": false },
+      { "text": "π ∫f(x) dx", "correct": false },
+      { "text": "2π ∫f(x) dx", "correct": false }
+    ]
+  },
+  {
+    "question": "Вісь обертання — це…",
+    "options": [
+      { "text": "пряма, навколо якої здійснюється обертання", "correct": true },
+      { "text": "коло, що обертається", "correct": false },
+      { "text": "точка, що обертається", "correct": false },
+      { "text": "площина, що обертається", "correct": false }
+    ]
+  },
+  {
+    "question": "Об'єм тора (кільця обертання) обчислюється як?",
+    "options": [
+      { "text": "2π² R r²", "correct": true },
+      { "text": "4/3 πr³", "correct": false },
+      { "text": "πR²r", "correct": false },
+      { "text": "πRr", "correct": false }
+    ]
+  },
+  {
+    "question": "Площа поверхні тора обчислюється як?",
+    "options": [
+      { "text": "4π² R r", "correct": true },
+      { "text": "2π² R r²", "correct": false },
+      { "text": "πr²", "correct": false },
+      { "text": "πR²", "correct": false }
+    ]
+  }
+]

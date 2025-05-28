@@ -1,0 +1,110 @@
+[
+  {
+    "question": "Монета підкидається один раз. Ймовірність випадіння орла?",
+    "options": [
+      { "text": "1/2", "correct": true },
+      { "text": "1/3", "correct": false },
+      { "text": "1/4", "correct": false },
+      { "text": "1/6", "correct": false }
+    ]
+  },
+  {
+    "question": "Гральний кубик кидають один раз. Ймовірність випадіння числа ≥ 5?",
+    "options": [
+      { "text": "1/3", "correct": true },
+      { "text": "1/6", "correct": false },
+      { "text": "2/3", "correct": false },
+      { "text": "1/2", "correct": false }
+    ]
+  },
+  {
+    "question": "З колоди 52 карт витягують одну. Ймовірність пики?",
+    "options": [
+      { "text": "1/4", "correct": true },
+      { "text": "1/13", "correct": false },
+      { "text": "13/52", "correct": false },
+      { "text": "1/2", "correct": false }
+    ]
+  },
+  {
+    "question": "Два кубики кидають. Ймовірність суми = 7?",
+    "options": [
+      { "text": "1/6", "correct": true },
+      { "text": "1/12", "correct": false },
+      { "text": "1/36", "correct": false },
+      { "text": "2/6", "correct": false }
+    ]
+  },
+  {
+    "question": "Монету підкинули двічі. Ймовірність двох орлів?",
+    "options": [
+      { "text": "1/4", "correct": true },
+      { "text": "1/2", "correct": false },
+      { "text": "1/8", "correct": false },
+      { "text": "1/1", "correct": false }
+    ]
+  },
+  {
+    "question": "З мішка з 5 білих і 3 чорних куль вытягують одну. Ймовірність чорної?",
+    "options": [
+      { "text": "3/8", "correct": true },
+      { "text": "5/8", "correct": false },
+      { "text": "3/5", "correct": false },
+      { "text": "1/2", "correct": false }
+    ]
+  },
+  {
+    "question": "З двох карт (без повернення) з колоди. Ймовірність двох тузів?",
+    "options": [
+      { "text": "1/221", "correct": false },
+      { "text": "1/663", "correct": false },
+      { "text": "1/17", "correct": false },
+      { "text": "1/221", "correct": false }
+    ]
+  },
+  {
+    "question": "Монету і кубик кидають. Ймовірність орла і шістки?",
+    "options": [
+      { "text": "1/12", "correct": true },
+      { "text": "1/6", "correct": false },
+      { "text": "1/8", "correct": false },
+      { "text": "1/2", "correct": false }
+    ]
+  },
+  {
+    "question": "Ймовірність випадіння парного числа на кубику?",
+    "options": [
+      { "text": "1/2", "correct": true },
+      { "text": "1/3", "correct": false },
+      { "text": "2/3", "correct": false },
+      { "text": "1/4", "correct": false }
+    ]
+  },
+  {
+    "question": "З колоди витягують 2 картки. Ймовірність обох червових?",
+    "options": [
+      { "text": "3/51", "correct": false },
+      { "text": "13/51", "correct": false },
+      { "text": "1/17", "correct": true },
+      { "text": "1/4", "correct": false }
+    ]
+  },
+  {
+    "question": "Монету кидають три рази. Ймовірність одного орла?",
+    "options": [
+      { "text": "3/8", "correct": true },
+      { "text": "1/8", "correct": false },
+      { "text": "1/2", "correct": false },
+      { "text": "3/4", "correct": false }
+    ]
+  },
+  {
+    "question": "Ймовірність випадіння хоча б одного шістки при двох кидках кубика?",
+    "options": [
+      { "text": "11/36", "correct": true },
+      { "text": "1/6", "correct": false },
+      { "text": "5/36", "correct": false },
+      { "text": "25/36", "correct": false }
+    ]
+  }
+]

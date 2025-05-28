@@ -1,0 +1,173 @@
+[
+  {
+    "question": "Довжина вектора v = (x, y) обчислюється за формулою?",
+    "options": [
+      { "text": "√(x² + y²)", "correct": true },
+      { "text": "x + y", "correct": false },
+      { "text": "x² + y²", "correct": false },
+      { "text": "√(x + y)", "correct": false }
+    ]
+  },
+  {
+    "question": "Сума векторів u = (u₁, u₂) та v = (v₁, v₂) = ?",
+    "options": [
+      { "text": "(u₁ + v₁, u₂ + v₂)", "correct": true },
+      { "text": "(u₁ - v₁, u₂ - v₂)", "correct": false },
+      { "text": "(u₂ + v₁, u₁ + v₂)", "correct": false },
+      { "text": "(u₁v₁, u₂v₂)", "correct": false }
+    ]
+  },
+  {
+    "question": "Різниця векторів u - v = ?",
+    "options": [
+      { "text": "(u₁ - v₁, u₂ - v₂)", "correct": true },
+      { "text": "(v₁ - u₁, v₂ - u₂)", "correct": false },
+      { "text": "(u₁ + v₁, u₂ + v₂)", "correct": false },
+      { "text": "(u₂ - v₁, u₁ - v₂)", "correct": false }
+    ]
+  },
+  {
+    "question": "Скалярний добуток u · v = ?",
+    "options": [
+      { "text": "u₁v₁ + u₂v₂", "correct": true },
+      { "text": "u₁ + v₁ + u₂ + v₂", "correct": false },
+      { "text": "u₁u₂ + v₁v₂", "correct": false },
+      { "text": "u₁v₂ - u₂v₁", "correct": false }
+    ]
+  },
+  {
+    "question": "Кут між u та v: θ = arccos( ... )?",
+    "options": [
+      { "text": "(u·v) / (||u|| × ||v||)", "correct": true },
+      { "text": "(||u|| + ||v||) / (u·v)", "correct": false },
+      { "text": "(u·v) / (||u|| + ||v||)", "correct": false },
+      { "text": "(u·v) × (||u|| × ||v||)", "correct": false }
+    ]
+  },
+  {
+    "question": "Одиничний вектор v̂ дорівнює?",
+    "options": [
+      { "text": "v / ||v||", "correct": true },
+      { "text": "v × ||v||", "correct": false },
+      { "text": "v + ||v||", "correct": false },
+      { "text": "v - ||v||", "correct": false }
+    ]
+  },
+  {
+    "question": "Проекція u на v = ?",
+    "options": [
+      { "text": "((u·v) / ||v||²) × v", "correct": true },
+      { "text": "(u·v) × v", "correct": false },
+      { "text": "(u / v))", "correct": false },
+      { "text": "(v·u) / v", "correct": false }
+    ]
+  },
+  {
+    "question": "Коли два вектори колінеарні?",
+    "options": [
+      { "text": "лежать на одній прямій", "correct": true },
+      { "text": "перетинаються під прямим кутом", "correct": false },
+      { "text": "мають однакову довжину", "correct": false },
+      { "text": "сума їх рівна нулю", "correct": false }
+    ]
+  },
+  {
+    "question": "Ортогональні вектори мають скалярний добуток = ?",
+    "options": [
+      { "text": "0", "correct": true },
+      { "text": "1", "correct": false },
+      { "text": "||u|| × ||v||", "correct": false },
+      { "text": "u₁v₂ - u₂v₁", "correct": false }
+    ]
+  },
+  {
+    "question": "Множення вектора v = (x, y) на скаляр k = ?",
+    "options": [
+      { "text": "(kx, ky)", "correct": true },
+      { "text": "(x/k, y/k)", "correct": false },
+      { "text": "(x + k, y + k)", "correct": false },
+      { "text": "(x - k, y - k)", "correct": false }
+    ]
+  },
+  {
+    "question": "Нульовий вектор позначається як?",
+    "options": [
+      { "text": "0⃗", "correct": true },
+      { "text": "1⃗", "correct": false },
+      { "text": "e⃗", "correct": false },
+      { "text": "i⃗", "correct": false }
+    ]
+  },
+  {
+    "question": "Проекція (3,4) на (1,0) дорівнює?",
+    "options": [
+      { "text": "(3, 0)", "correct": true },
+      { "text": "(0, 4)", "correct": false },
+      { "text": "(3, 4)", "correct": false },
+      { "text": "(1, 0)", "correct": false }
+    ]
+  },
+  {
+    "question": "Довжина вектора (5,12) = ?",
+    "options": [
+      { "text": "13", "correct": true },
+      { "text": "17", "correct": false },
+      { "text": "12", "correct": false },
+      { "text": "7", "correct": false }
+    ]
+  },
+  {
+    "question": "Скалярний добуток (2,3)·(4,-1) = ?",
+    "options": [
+      { "text": "5", "correct": true },
+      { "text": "11", "correct": false },
+      { "text": "−5", "correct": false },
+      { "text": "8", "correct": false }
+    ]
+  },
+  {
+    "question": "Cума (1,2)+(3,4) = ?",
+    "options": [
+      { "text": "(4,6)", "correct": true },
+      { "text": "(2,2)", "correct": false },
+      { "text": "(3,6)", "correct": false },
+      { "text": "(1,4)", "correct": false }
+    ]
+  },
+  {
+    "question": "Вектор, перпендикулярний до (1,0) у R², можна взяти як?",
+    "options": [
+      { "text": "(0,1)", "correct": true },
+      { "text": "(1,1)", "correct": false },
+      { "text": "(−1,0)", "correct": false },
+      { "text": "(1,0)", "correct": false }
+    ]
+  },
+  {
+    "question": "Кут між (1,1) і (1,−1) = ?",
+    "options": [
+      { "text": "90°", "correct": true },
+      { "text": "45°", "correct": false },
+      { "text": "60°", "correct": false },
+      { "text": "120°", "correct": false }
+    ]
+  },
+  {
+    "question": "Одиничний вектор для (3,4) = ?",
+    "options": [
+      { "text": "(3/5,4/5)", "correct": true },
+      { "text": "(4/5,3/5)", "correct": false },
+      { "text": "(3,4)", "correct": false },
+      { "text": "(5/3,5/4)", "correct": false }
+    ]
+  },
+  {
+    "question": "Друга стандартна базисна вісь в R² позначається як?",
+    "options": [
+      { "text": "(0,1)", "correct": true },
+      { "text": "(1,0)", "correct": false },
+      { "text": "(1,1)", "correct": false },
+      { "text": "(−1,0)", "correct": false }
+    ]
+  }
+]

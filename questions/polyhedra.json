@@ -1,0 +1,218 @@
+[
+  {
+    "question": "Що таке многогранник?",
+    "options": [
+      { "text": "тіло, обмежене плоскими гранями", "correct": true },
+      { "text": "тіло, обмежене плавними поверхнями", "correct": false },
+      { "text": "площина, обмежена прямими", "correct": false },
+      { "text": "криволінійне тіло", "correct": false }
+    ]
+  },
+  {
+    "question": "Формула Ейлера для опуклого многогранника?",
+    "options": [
+      { "text": "V - E + F = 2", "correct": true },
+      { "text": "V + E - F = 0", "correct": false },
+      { "text": "V - F + E = 1", "correct": false },
+      { "text": "E - V + F = 2", "correct": false }
+    ]
+  },
+  {
+    "question": "Скільки правильних платонових многогранників існує?",
+    "options": [
+      { "text": "5", "correct": true },
+      { "text": "4", "correct": false },
+      { "text": "6", "correct": false },
+      { "text": "8", "correct": false }
+    ]
+  },
+  {
+    "question": "Куб має скільки вершин?",
+    "options": [
+      { "text": "8", "correct": true },
+      { "text": "6", "correct": false },
+      { "text": "12", "correct": false },
+      { "text": "4", "correct": false }
+    ]
+  },
+  {
+    "question": "Куб має скільки ребер?",
+    "options": [
+      { "text": "12", "correct": true },
+      { "text": "8", "correct": false },
+      { "text": "6", "correct": false },
+      { "text": "16", "correct": false }
+    ]
+  },
+  {
+    "question": "Куб має скільки граней?",
+    "options": [
+      { "text": "6", "correct": true },
+      { "text": "8", "correct": false },
+      { "text": "12", "correct": false },
+      { "text": "4", "correct": false }
+    ]
+  },
+  {
+    "question": "Тетраедр має скільки граней?",
+    "options": [
+      { "text": "4", "correct": true },
+      { "text": "6", "correct": false },
+      { "text": "8", "correct": false },
+      { "text": "3", "correct": false }
+    ]
+  },
+  {
+    "question": "Тетраедр має скільки ребер?",
+    "options": [
+      { "text": "6", "correct": true },
+      { "text": "4", "correct": false },
+      { "text": "12", "correct": false },
+      { "text": "8", "correct": false }
+    ]
+  },
+  {
+    "question": "Тетраедр має скільки вершин?",
+    "options": [
+      { "text": "4", "correct": true },
+      { "text": "6", "correct": false },
+      { "text": "8", "correct": false },
+      { "text": "12", "correct": false }
+    ]
+  },
+  {
+    "question": "Октаедр має скільки граней?",
+    "options": [
+      { "text": "8", "correct": true },
+      { "text": "6", "correct": false },
+      { "text": "12", "correct": false },
+      { "text": "4", "correct": false }
+    ]
+  },
+  {
+    "question": "Октаедр має скільки ребер?",
+    "options": [
+      { "text": "12", "correct": true },
+      { "text": "8", "correct": false },
+      { "text": "24", "correct": false },
+      { "text": "6", "correct": false }
+    ]
+  },
+  {
+    "question": "Октаедр має скільки вершин?",
+    "options": [
+      { "text": "6", "correct": true },
+      { "text": "8", "correct": false },
+      { "text": "12", "correct": false },
+      { "text": "4", "correct": false }
+    ]
+  },
+  {
+    "question": "Додекаедр має скільки граней?",
+    "options": [
+      { "text": "12", "correct": true },
+      { "text": "20", "correct": false },
+      { "text": "8", "correct": false },
+      { "text": "6", "correct": false }
+    ]
+  },
+  {
+    "question": "Додекаедр має скільки ребер?",
+    "options": [
+      { "text": "30", "correct": true },
+      { "text": "24", "correct": false },
+      { "text": "20", "correct": false },
+      { "text": "12", "correct": false }
+    ]
+  },
+  {
+    "question": "Додекаедр має скільки вершин?",
+    "options": [
+      { "text": "20", "correct": true },
+      { "text": "12", "correct": false },
+      { "text": "30", "correct": false },
+      { "text": "8", "correct": false }
+    ]
+  },
+  {
+    "question": "Ікосаедр має скільки граней?",
+    "options": [
+      { "text": "20", "correct": true },
+      { "text": "12", "correct": false },
+      { "text": "30", "correct": false },
+      { "text": "6", "correct": false }
+    ]
+  },
+  {
+    "question": "Ікосаедр має скільки ребер?",
+    "options": [
+      { "text": "30", "correct": true },
+      { "text": "20", "correct": false },
+      { "text": "12", "correct": false },
+      { "text": "60", "correct": false }
+    ]
+  },
+  {
+    "question": "Ікосаедр має скільки вершин?",
+    "options": [
+      { "text": "12", "correct": true },
+      { "text": "20", "correct": false },
+      { "text": "30", "correct": false },
+      { "text": "8", "correct": false }
+    ]
+  },
+  {
+    "question": "Двоїстий многогранник куба — це?",
+    "options": [
+      { "text": "октаедр", "correct": true },
+      { "text": "ікосаедр", "correct": false },
+      { "text": "додекаедр", "correct": false },
+      { "text": "тетраедр", "correct": false }
+    ]
+  },
+  {
+    "question": "Двоїстий многогранник додекаедра — це?",
+    "options": [
+      { "text": "ікосаедр", "correct": true },
+      { "text": "октаедр", "correct": false },
+      { "text": "куб", "correct": false },
+      { "text": "ромб", "correct": false }
+    ]
+  },
+  {
+    "question": "Призма — це многогранник з…",
+    "options": [
+      { "text": "двома паралельними однаковими гранями", "correct": true },
+      { "text": "однією гранню і вершинами", "correct": false },
+      { "text": "усіма гранями трикутниками", "correct": false },
+      { "text": "без ребер", "correct": false }
+    ]
+  },
+  {
+    "question": "Піраміда — це многогранник з…",
+    "options": [
+      { "text": "однією основою і бічними гранями, що сходяться в вершині", "correct": true },
+      { "text": "двома основами", "correct": false },
+      { "text": "усіма гранями однаковими", "correct": false },
+      { "text": "без вершин", "correct": false }
+    ]
+  },
+  {
+    "question": "Об'єм призми обчислюється за формулою?",
+    "options": [
+      { "text": "S_осн × h", "correct": true },
+      { "text": "1/3 × S_осн × h", "correct": false },
+      { "text": "S_осн + h", "correct": false },
+      { "text": "2 × S_осн × h", "correct": false }
+    ]
+  },
+  {
+    "question": "Об'єм піраміди обчислюється за формулою?",
+    "options": [
+      { "text": "1/3 × S_осн × h", "correct": true },
+      { "text": "S_осн × h", "correct": false },
+      { "text": "1/2 × S_осн × h", "correct": false },
+      { "text": "3 × S_осн × h", "correct": false }
+    ]
+  }
+]

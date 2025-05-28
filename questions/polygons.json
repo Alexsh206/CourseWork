@@ -1,0 +1,191 @@
+[
+  {
+    "question": "Сума внутрішніх кутів опуклого n-кутника дорівнює?",
+    "options": [
+      { "text": "(n - 2) × 180°", "correct": true },
+      { "text": "n × 180°", "correct": false },
+      { "text": "(n + 2) × 180°", "correct": false },
+      { "text": "(2n - 4) × 90°", "correct": false }
+    ]
+  },
+  {
+    "question": "Сума зовнішніх кутів будь-якого опуклого n-кутника дорівнює?",
+    "options": [
+      { "text": "360°", "correct": true },
+      { "text": "180°", "correct": false },
+      { "text": "(n - 2) × 180°", "correct": false },
+      { "text": "90° × n", "correct": false }
+    ]
+  },
+  {
+    "question": "Кількість діагоналей в n-кутнику визначається формулою?",
+    "options": [
+      { "text": "n(n - 3) / 2", "correct": true },
+      { "text": "n(n - 1) / 2", "correct": false },
+      { "text": "(n - 2)(n - 4)", "correct": false },
+      { "text": "2n", "correct": false }
+    ]
+  },
+  {
+    "question": "Як називається многокутник, у якого всі сторони й кути рівні?",
+    "options": [
+      { "text": "правильний многокутник", "correct": true },
+      { "text": "рівносторонній многокутник", "correct": false },
+      { "text": "рівнокутний многокутник", "correct": false },
+      { "text": "опуклий многокутник", "correct": false }
+    ]
+  },
+  {
+    "question": "Внутрішній кут правильного n-кутника дорівнює?",
+    "options": [
+      { "text": "(1 - 2/n) × 180°", "correct": true },
+      { "text": "(n - 1) × 90°", "correct": false },
+      { "text": "360° / n", "correct": false },
+      { "text": "(n - 2) × 90°", "correct": false }
+    ]
+  },
+  {
+    "question": "Зовнішній кут правильного n-кутника дорівнює?",
+    "options": [
+      { "text": "360° / n", "correct": true },
+      { "text": "180° / n", "correct": false },
+      { "text": "n × 180°", "correct": false },
+      { "text": "(n - 2) × 180°", "correct": false }
+    ]
+  },
+  {
+    "question": "Периметр правильного n-кутника зі стороною a = ?",
+    "options": [
+      { "text": "n × a", "correct": true },
+      { "text": "a / n", "correct": false },
+      { "text": "(n - 2) × a", "correct": false },
+      { "text": "2n × a", "correct": false }
+    ]
+  },
+  {
+    "question": "Площа правильного n-кутника зі стороною a = ?",
+    "options": [
+      { "text": "(n × a²) / (4 × tan(π / n))", "correct": true },
+      { "text": "(n - 2) × a² / 4", "correct": false },
+      { "text": "n × a² / 2", "correct": false },
+      { "text": "a² × tan(π / n)", "correct": false }
+    ]
+  },
+  {
+    "question": "Назва многокутника з 7 сторонами?",
+    "options": [
+      { "text": "семикутник", "correct": true },
+      { "text": "п'ятикутник", "correct": false },
+      { "text": "восьмикутник", "correct": false },
+      { "text": "десятикутник", "correct": false }
+    ]
+  },
+  {
+    "question": "Назва многокутника з 11 сторонами?",
+    "options": [
+      { "text": "одинадцятикутник", "correct": true },
+      { "text": "дванадцятикутник", "correct": false },
+      { "text": "десятикутник", "correct": false },
+      { "text": "чотирикутник", "correct": false }
+    ]
+  },
+  {
+    "question": "Многокутник із всіх вершин на одній колі називається?",
+    "options": [
+      { "text": "вписаний многокутник", "correct": true },
+      { "text": "описаний многокутник", "correct": false },
+      { "text": "опуклий многокутник", "correct": false },
+      { "text": "правильний многокутник", "correct": false }
+    ]
+  },
+  {
+    "question": "Чи завжди опуклий чотирикутник можна розбити на два трикутники діагоналлю?",
+    "options": [
+      { "text": "так", "correct": true },
+      { "text": "ні", "correct": false },
+      { "text": "лише для правильного", "correct": false },
+      { "text": "лише для паралелограма", "correct": false }
+    ]
+  },
+  {
+    "question": "Кількість діагоналей у правильному п'ятикутнику = ?",
+    "options": [
+      { "text": "5", "correct": true },
+      { "text": "10", "correct": false },
+      { "text": "3", "correct": false },
+      { "text": "7", "correct": false }
+    ]
+  },
+  {
+    "question": "У скільки трикутників розбивається опуклий восьмикутник, якщо провести всі діагоналі з однієї вершини?",
+    "options": [
+      { "text": "6", "correct": true },
+      { "text": "5", "correct": false },
+      { "text": "7", "correct": false },
+      { "text": "8", "correct": false }
+    ]
+  },
+  {
+    "question": "Назва многокутника з 100 сторонами?",
+    "options": [
+      { "text": "стокутник", "correct": true },
+      { "text": "десятикутник", "correct": false },
+      { "text": "п'ятикутник", "correct": false },
+      { "text": "дванадцятикутник", "correct": false }
+    ]
+  },
+  {
+    "question": "Скільки кутів має семикутник?",
+    "options": [
+      { "text": "7", "correct": true },
+      { "text": "5", "correct": false },
+      { "text": "8", "correct": false },
+      { "text": "6", "correct": false }
+    ]
+  },
+  {
+    "question": "Назва опуклого чотирикутника без паралельних сторона?",
+    "options": [
+      { "text": "трапеція", "correct": false },
+      { "text": "криволінійний", "correct": false },
+      { "text": "трапеція із однією парою паралельних", "correct": true },
+      { "text": "пентагон", "correct": false }
+    ]
+  },
+  {
+    "question": "У правильному шестикутнику кожен внутрішній кут = ?",
+    "options": [
+      { "text": "120°", "correct": true },
+      { "text": "90°", "correct": false },
+      { "text": "100°", "correct": false },
+      { "text": "60°", "correct": false }
+    ]
+  },
+  {
+    "question": "У рівносторонньому трикутнику кожен внутрішній кут = ?",
+    "options": [
+      { "text": "60°", "correct": true },
+      { "text": "90°", "correct": false },
+      { "text": "45°", "correct": false },
+      { "text": "120°", "correct": false }
+    ]
+  },
+  {
+    "question": "Назва многокутника з 9 сторонами?",
+    "options": [
+      { "text": "дев'ятикутник", "correct": true },
+      { "text": "семикутник", "correct": false },
+      { "text": "десятикутник", "correct": false },
+      { "text": "восьмикутник", "correct": false }
+    ]
+  },
+  {
+    "question": "Скільки кутів дорівнює сума зовнішніх кутів у правильному n-кутнику?",
+    "options": [
+      { "text": "360°", "correct": true },
+      { "text": "180°", "correct": false },
+      { "text": "n × 180°", "correct": false },
+      { "text": "(n - 2) × 180°", "correct": false }
+    ]
+  }
+]

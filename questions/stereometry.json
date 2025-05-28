@@ -1,0 +1,200 @@
+[
+  {
+    "question": "Скільки координат потрібно для визначення точки в просторі?",
+    "options": [
+      { "text": "3", "correct": true },
+      { "text": "2", "correct": false },
+      { "text": "4", "correct": false },
+      { "text": "1", "correct": false }
+    ]
+  },
+  {
+    "question": "Формула відстані між точками A(x₁, y₁, z₁) і B(x₂, y₂, z₂) в просторі?",
+    "options": [
+      { "text": "√((x₂ - x₁)² + (y₂ - y₁)² + (z₂ - z₁)²)", "correct": true },
+      { "text": "√((x₂ - x₁)² + (y₂ - y₁)²)", "correct": false },
+      { "text": "|x₂ - x₁| + |y₂ - y₁| + |z₂ - z₁|", "correct": false },
+      { "text": "√((x₂ - x₁)²)", "correct": false }
+    ]
+  },
+  {
+    "question": "Загальне рівняння площини в просторі має вигляд?",
+    "options": [
+      { "text": "Ax + By + Cz + D = 0", "correct": true },
+      { "text": "Ax + By + C = z", "correct": false },
+      { "text": "x/a + y/b + z/c = 1", "correct": false },
+      { "text": "ax + by + cz = d·t", "correct": false }
+    ]
+  },
+  {
+    "question": "Вектор (A, B, C) у рівнянні Ax + By + Cz + D = 0 називається?",
+    "options": [
+      { "text": "нормаллю (нормальним вектором)", "correct": true },
+      { "text": "директрисою", "correct": false },
+      { "text": "тангенсом", "correct": false },
+      { "text": "ортантом", "correct": false }
+    ]
+  },
+  {
+    "question": "Що таке діедральний кут між двома площинами?",
+    "options": [
+      { "text": "кут між їх нормалями", "correct": true },
+      { "text": "кут між їх прямими перетину", "correct": false },
+      { "text": "сума кутів у точці перетину", "correct": false },
+      { "text": "різниця кутів напрямків", "correct": false }
+    ]
+  },
+  {
+    "question": "Формула для обчислення кута між площинами: cos θ = ?",
+    "options": [
+      { "text": "(n₁·n₂) / (|n₁|·|n₂|)", "correct": true },
+      { "text": "(n₁ × n₂) / (|n₁|·|n₂|)", "correct": false },
+      { "text": "n₁·n₂", "correct": false },
+      { "text": "|n₁| + |n₂|", "correct": false }
+    ]
+  },
+  {
+    "question": "Кут між прямою та площиною дорівнює…",
+    "options": [
+      { "text": "90° − кут між напрямним вектором і нормаллю площини", "correct": true },
+      { "text": "кут між напрямним вектором і нормаллю площини", "correct": false },
+      { "text": "сума кутів між прямими", "correct": false },
+      { "text": "різниця кутів між прямими", "correct": false }
+    ]
+  },
+  {
+    "question": "Відстань від точки (x₀, y₀, z₀) до площини Ax + By + Cz + D = 0 обчислюється як?",
+    "options": [
+      { "text": "|Ax₀ + By₀ + Cz₀ + D| / √(A² + B² + C²)", "correct": true },
+      { "text": "|Ax₀ + By₀ + Cz₀|", "correct": false },
+      { "text": "√(A² + B² + C²) / |D|", "correct": false },
+      { "text": "|D| / √(A² + B²)", "correct": false }
+    ]
+  },
+  {
+    "question": "Прямі в просторі називаються паралельними, якщо…",
+    "options": [
+      { "text": "їх напрямні вектори пропорційні", "correct": true },
+      { "text": "вони мають спільну точку", "correct": false },
+      { "text": "їх нормалі перетинаються", "correct": false },
+      { "text": "вони лежать в одній площині", "correct": false }
+    ]
+  },
+  {
+    "question": "Прямі в просторі називаються перпендикулярними, якщо…",
+    "options": [
+      { "text": "їх напрямні вектори мають скалярний добуток 0", "correct": true },
+      { "text": "вони паралельні", "correct": false },
+      { "text": "вони не перетинаються", "correct": false },
+      { "text": "вони лежать в одній площині", "correct": false }
+    ]
+  },
+  {
+    "question": "Прямі, які не лежать в одній площині й не перетинаються, називаються…",
+    "options": [
+      { "text": "косими", "correct": true },
+      { "text": "паралельними", "correct": false },
+      { "text": "перпендикулярними", "correct": false },
+      { "text": "мимобіжними", "correct": false }
+    ]
+  },
+  {
+    "question": "Параметричне рівняння прямої задається як?",
+    "options": [
+      { "text": "x = x₀ + a t, y = y₀ + b t, z = z₀ + c t", "correct": true },
+      { "text": "Ax + By + Cz + D = 0", "correct": false },
+      { "text": "x/a + y/b + z/c = 1", "correct": false },
+      { "text": "r = r₀ + t n", "correct": false }
+    ]
+  },
+  {
+    "question": "Симетричне рівняння прямої задається як?",
+    "options": [
+      { "text": "(x - x₀)/a = (y - y₀)/b = (z - z₀)/c", "correct": true },
+      { "text": "x = x₀ + a t", "correct": false },
+      { "text": "Ax + By + Cz = D", "correct": false },
+      { "text": "y - y₀ = (b/a)(x - x₀)", "correct": false }
+    ]
+  },
+  {
+    "question": "Середина відрізка AB має координати?",
+    "options": [
+      { "text": "((x₁ + x₂)/2, (y₁ + y₂)/2, (z₁ + z₂)/2)", "correct": true },
+      { "text": "(x₂ - x₁, y₂ - y₁, z₂ - z₁)", "correct": false },
+      { "text": "(x₁x₂, y₁y₂, z₁z₂)", "correct": false },
+      { "text": "(x₁ + x₂, y₁ + y₂, z₁ + z₂)", "correct": false }
+    ]
+  },
+  {
+    "question": "Рівняння сфери з центром (x₀,y₀,z₀) і радіусом r?",
+    "options": [
+      { "text": "(x - x₀)² + (y - y₀)² + (z - z₀)² = r²", "correct": true },
+      { "text": "x² + y² + z² = r", "correct": false },
+      { "text": "(x + x₀)² + (y + y₀)² + (z + z₀)² = r²", "correct": false },
+      { "text": "x² + y² + z² = r³", "correct": false }
+    ]
+  },
+  {
+    "question": "Перетин сфери та площини є…",
+    "options": [
+      { "text": "коло", "correct": true },
+      { "text": "відрізок", "correct": false },
+      { "text": "точка", "correct": false },
+      { "text": "сфера", "correct": false }
+    ]
+  },
+  {
+    "question": "Площина в просторі задається трьома точками, якщо ці точки…",
+    "options": [
+      { "text": "не лежать на одній прямій", "correct": true },
+      { "text": "лежать на одній прямій", "correct": false },
+      { "text": "лежать в одній точці", "correct": false },
+      { "text": "перетинаються двома лініями", "correct": false }
+    ]
+  },
+  {
+    "question": "Точка (x₀,y₀,z₀) лежить на площині Ax+By+Cz+D=0, якщо…",
+    "options": [
+      { "text": "Ax₀ + By₀ + Cz₀ + D = 0", "correct": true },
+      { "text": "|Ax₀ + By₀ + Cz₀ + D| = 1", "correct": false },
+      { "text": "A + B + C + D = 0", "correct": false },
+      { "text": "x₀ + y₀ + z₀ = D", "correct": false }
+    ]
+  },
+  {
+    "question": "Проекція точки на площину здійснюється по…",
+    "options": [
+      { "text": "перпендикуляру до площини", "correct": true },
+      { "text": "паралелі до площини", "correct": false },
+      { "text": "хорді кола", "correct": false },
+      { "text": "діаметру сфери", "correct": false }
+    ]
+  },
+  {
+    "question": "Пряма паралельна площині, якщо її напрямний вектор…",
+    "options": [
+      { "text": "перпендикулярний нормалі площини", "correct": true },
+      { "text": "колінеарний нормалі площини", "correct": false },
+      { "text": "має скалярний добуток 1 зі нормаллю", "correct": false },
+      { "text": "лежить в площині", "correct": false }
+    ]
+  },
+  {
+    "question": "Пряма перетинає площину, якщо її напрямний вектор…",
+    "options": [
+      { "text": "не перпендикулярний нормалі площини", "correct": true },
+      { "text": "колінеарний нормалі площини", "correct": false },
+      { "text": "має скалярний добуток 0 зі нормаллю", "correct": false },
+      { "text": "лежить паралельно нормалі", "correct": false }
+    ]
+  },
+  {
+    "question": "У рівнянні площини Ax+By+Cz+D=0 вектор (A,B,C) називається…",
+    "options": [
+      { "text": "нормальним", "correct": true },
+      { "text": "тангенсним", "correct": false },
+      { "text": "директивним", "correct": false },
+      { "text": "ортогональним", "correct": false }
+    ]
+  }
+]

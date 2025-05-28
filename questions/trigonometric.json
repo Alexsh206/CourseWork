@@ -1,0 +1,86 @@
+[
+  {"question":"sin(30°) = ?","options":[
+    {"text":"0","correct":false},
+    {"text":"0.5","correct":true},
+    {"text":"√2/2","correct":false},
+    {"text":"1","correct":false}
+  ]
+  },
+  {"question":"cos(60°) = ?","options":[
+    {"text":"0","correct":false},
+    {"text":"0.5","correct":true},
+    {"text":"√3/2","correct":false},
+    {"text":"1/2","correct":false}
+  ]
+  },
+  {"question":"tan(45°) = ?","options":[
+    {"text":"0","correct":false},
+    {"text":"1","correct":true},
+    {"text":"√3","correct":false},
+    {"text":"∞","correct":false}
+  ]
+  },
+  {"question":"sin(90°) = ?","options":[
+    {"text":"0","correct":false},
+    {"text":"0.5","correct":false},
+    {"text":"1","correct":true},
+    {"text":"√2/2","correct":false}
+  ]
+  },
+  {"question":"cos(0°) = ?","options":[
+    {"text":"0","correct":false},
+    {"text":"1","correct":true},
+    {"text":"-1","correct":false},
+    {"text":"√3/2","correct":false}
+  ]
+  },
+  {"question":"tan(0°) = ?","options":[
+    {"text":"0","correct":true},
+    {"text":"1","correct":false},
+    {"text":"∞","correct":false},
+    {"text":"√3","correct":false}
+  ]
+  },
+  {"question":"sin(45°) = ?","options":[
+    {"text":"0","correct":false},
+    {"text":"√2/2","correct":true},
+    {"text":"1/2","correct":false},
+    {"text":"1","correct":false}
+  ]
+  },
+  {"question":"cos(45°) = ?","options":[
+    {"text":"√2/2","correct":true},
+    {"text":"1/2","correct":false},
+    {"text":"1","correct":false},
+    {"text":"0","correct":false}
+  ]
+  },
+  {"question":"tan(30°) = ?","options":[
+    {"text":"√3","correct":false},
+    {"text":"1/√3","correct":true},
+    {"text":"1","correct":false},
+    {"text":"√3/3","correct":false}
+  ]
+  },
+  {"question":"sin(0°) = ?","options":[
+    {"text":"0","correct":true},
+    {"text":"1","correct":false},
+    {"text":"-1","correct":false},
+    {"text":"√2/2","correct":false}
+  ]
+  },
+  {"question":"cos(90°) = ?","options":[
+    {"text":"0","correct":true},
+    {"text":"1","correct":false},
+    {"text":"-1","correct":false},
+    {"text":"√2/2","correct":false}
+  ]
+  },
+  {"question":"tan(90°) = ?","options":[
+    {"text":"0","correct":false},
+    {"text":"1","correct":false},
+    {"text":"∞","correct":true},
+    {"text":"√3/2","correct":false}
+  ]
+  }
+]

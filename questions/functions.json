@@ -1,0 +1,110 @@
+[
+  {
+    "question": "f(x) = 2x + 3. Знайдіть f(1).",
+    "options": [
+      { "text": "5", "correct": true },
+      { "text": "2", "correct": false },
+      { "text": "3", "correct": false },
+      { "text": "1", "correct": false }
+    ]
+  },
+  {
+    "question": "f(x) = x². Знайдіть f(-2).",
+    "options": [
+      { "text": "4", "correct": true },
+      { "text": "-4", "correct": false },
+      { "text": "2", "correct": false },
+      { "text": "0", "correct": false }
+    ]
+  },
+  {
+    "question": "f(x) = √x. Яка область визначення функції?",
+    "options": [
+      { "text": "x ≥ 0", "correct": true },
+      { "text": "x > 0", "correct": false },
+      { "text": "x ≤ 0", "correct": false },
+      { "text": "всі x", "correct": false }
+    ]
+  },
+  {
+    "question": "f(x) = 1/x. Яка область визначення?",
+    "options": [
+      { "text": "x ≠ 0", "correct": true },
+      { "text": "x > 0", "correct": false },
+      { "text": "x ≥ 0", "correct": false },
+      { "text": "всі x", "correct": false }
+    ]
+  },
+  {
+    "question": "f(x) = x - 5. Знайдіть f(3).",
+    "options": [
+      { "text": "-2", "correct": true },
+      { "text": "2", "correct": false },
+      { "text": "8", "correct": false },
+      { "text": "0", "correct": false }
+    ]
+  },
+  {
+    "question": "f(x) = x³. Знайдіть f(2).",
+    "options": [
+      { "text": "8", "correct": true },
+      { "text": "6", "correct": false },
+      { "text": "4", "correct": false },
+      { "text": "16", "correct": false }
+    ]
+  },
+  {
+    "question": "f(x) = |x|. Знайдіть f(-4).",
+    "options": [
+      { "text": "4", "correct": true },
+      { "text": "-4", "correct": false },
+      { "text": "0", "correct": false },
+      { "text": "1", "correct": false }
+    ]
+  },
+  {
+    "question": "f(x) = 3x. Знайдіть f(0).",
+    "options": [
+      { "text": "0", "correct": true },
+      { "text": "3", "correct": false },
+      { "text": "-3", "correct": false },
+      { "text": "1", "correct": false }
+    ]
+  },
+  {
+    "question": "f(x) = x + 1, g(x) = 2x. Знайдіть (f∘g)(2).",
+    "options": [
+      { "text": "5", "correct": true },
+      { "text": "4", "correct": false },
+      { "text": "6", "correct": false },
+      { "text": "3", "correct": false }
+    ]
+  },
+  {
+    "question": "f(x) = x², g(x) = x + 1. Знайдіть (g∘f)(3).",
+    "options": [
+      { "text": "10", "correct": true },
+      { "text": "9", "correct": false },
+      { "text": "8", "correct": false },
+      { "text": "7", "correct": false }
+    ]
+  },
+  {
+    "question": "f(x) = x² - 4. Знайдіть нулі функції.",
+    "options": [
+      { "text": "x = ±2", "correct": true },
+      { "text": "x = 4", "correct": false },
+      { "text": "x = 0", "correct": false },
+      { "text": "нема коренів", "correct": false }
+    ]
+  },
+  {
+    "question": "f(x) = 2x + 1. Знайдіть зворотну функцію f⁻¹(x).",
+    "options": [
+      { "text": "(x - 1)/2", "correct": true },
+      { "text": "2x + 1", "correct": false },
+      { "text": "2x - 1", "correct": false },
+      { "text": "(x + 1)/2", "correct": false }
+    ]
+  }
+]

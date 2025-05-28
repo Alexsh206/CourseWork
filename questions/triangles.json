@@ -1,0 +1,23 @@
+[
+  {"question":"Сума кутів трикутника дорівнює…?","options":[{"text":"180°","correct":true},{"text":"360°","correct":false},{"text":"90°","correct":false},{"text":"270°","correct":false}]},
+  {"question":"Рівносторонній трикутник має всі сторони…?","options":[{"text":"рівні","correct":true},{"text":"різні","correct":false},{"text":"паралельні","correct":false},{"text":"перпендикулярні","correct":false}]},
+  {"question":"Прямокутний трикутник має один кут…?","options":[{"text":"90°","correct":true},{"text":"45°","correct":false},{"text":"60°","correct":false},{"text":"30°","correct":false}]},
+  {"question":"За теоремою Піфагора c² = ?","options":[{"text":"a² + b²","correct":true},{"text":"a² - b²","correct":false},{"text":"2ab","correct":false},{"text":"ab","correct":false}]},
+  {"question":"Площа трикутника через основу a і висоту h = ?","options":[{"text":"(a*h)/2","correct":true},{"text":"a*h","correct":false},{"text":"2a*h","correct":false},{"text":"a+h","correct":false}]},
+  {"question":"Закон синусів: a/sin A = ?","options":[{"text":"b/sin B","correct":true},{"text":"c/sin C","correct":true},{"text":"2R","correct":false},{"text":"S","correct":false}]},
+  {"question":"Закон косинусів: c² = ?","options":[{"text":"a² + b² - 2ab cos C","correct":true},{"text":"a² + b² + 2ab cos C","correct":false},{"text":"a² - b²","correct":false},{"text":"ab cos C","correct":false}]},
+  {"question":"Площа трикутника за формулою Герона S = ?","options":[{"text":"√(p(p-a)(p-b)(p-c))","correct":true},{"text":"(a+b+c)/2","correct":false},{"text":"abc/4R","correct":false},{"text":"ab sin C","correct":false}]},
+  {"question":"Висота до сторони a = ?","options":[{"text":"2S/a","correct":true},{"text":"S/a","correct":false},{"text":"a/2","correct":false},{"text":"S*2a","correct":false}]},
+  {"question":"Медіана до сторони a = ?","options":[{"text":"½√(2b² + 2c² - a²)","correct":true},{"text":"√(b² + c² - a²)","correct":false},{"text":"b + c - a","correct":false},{"text":"2(b+c) - a","correct":false}]},
+  {"question":"Бісектриса кута A = ?","options":[{"text":"2bc cos(A/2)/(b+c)","correct":true},{"text":"√(bc)","correct":false},{"text":"(b+c)/2","correct":false},{"text":"bc/(b+c)","correct":false}]},
+  {"question":"Правильний трикутник: площа = ?","options":[{"text":"(a²√3)/4","correct":true},{"text":"a²/2","correct":false},{"text":"a²√2","correct":false},{"text":"(a√3)/2","correct":false}]},
+  {"question":"Правильний трикутник: висота = ?","options":[{"text":"(a√3)/2","correct":true},{"text":"a/2","correct":false},{"text":"a√3","correct":false},{"text":"a³","correct":false}]},
+  {"question":"Один кут 45°, другий 45°, третій = ?","options":[{"text":"90°","correct":true},{"text":"45°","correct":false},{"text":"180°","correct":false},{"text":"60°","correct":false}]},
+  {"question":"Сума зовнішніх кутів трикутника = ?","options":[{"text":"360°","correct":true},{"text":"180°","correct":false},{"text":"90°","correct":false},{"text":"270°","correct":false}]},
+  {"question":"Медіани у трикутнику перетинаються у співвідношенні…?","options":[{"text":"2:1","correct":true},{"text":"1:1","correct":false},{"text":"3:1","correct":false},{"text":"1:2","correct":false}]},
+  {"question":"Центр описаного кола у рівносторонньому трикутнику збігається з…?","options":[{"text":"центром тяжіння","correct":false},{"text":"центром вписаного кола","correct":true},{"text":"вершиною","correct":false},{"text":"медіаною","correct":false}]},
+  {"question":"Радіус вписаного кола рівностороннього трикутника = ?","options":[{"text":"a√3/6","correct":true},{"text":"a/2","correct":false},{"text":"a√3/3","correct":false},{"text":"a√2/4","correct":false}]},
+  {"question":"Радіус описаного кола рівностороннього трикутника = ?","options":[{"text":"a√3/3","correct":true},{"text":"a√3/6","correct":false},{"text":"a/2","correct":false},{"text":"a√2/2","correct":false}]},
+  {"question":"Кут між бісектрисами двох кутів рівностороннього трикутника = ?","options":[{"text":"60°","correct":true},{"text":"30°","correct":false},{"text":"90°","correct":false},{"text":"120°","correct":false}]},
+  {"question":"Сторона рівностороннього трикутника = a, проведена висота, її довжина =?","options":[{"text":"a√3/2","correct":true},{"text":"a/2","correct":false},{"text":"a√3","correct":false},{"text":"a²","correct":false}]}
+]

@@ -1,0 +1,86 @@
+[
+  {"question":"log₂8 = ?","options":[
+    {"text":"2","correct":false},
+    {"text":"3","correct":true},
+    {"text":"4","correct":false},
+    {"text":"1","correct":false}
+  ]
+  },
+  {"question":"log₁₀100 = ?","options":[
+    {"text":"1","correct":false},
+    {"text":"2","correct":true},
+    {"text":"10","correct":false},
+    {"text":"100","correct":false}
+  ]
+  },
+  {"question":"log₂16 = ?","options":[
+    {"text":"2","correct":false},
+    {"text":"3","correct":false},
+    {"text":"4","correct":true},
+    {"text":"5","correct":false}
+  ]
+  },
+  {"question":"log₃9 = ?","options":[
+    {"text":"1","correct":false},
+    {"text":"2","correct":true},
+    {"text":"3","correct":false},
+    {"text":"4","correct":false}
+  ]
+  },
+  {"question":"log₅25 = ?","options":[
+    {"text":"2","correct":true},
+    {"text":"3","correct":false},
+    {"text":"5","correct":false},
+    {"text":"25","correct":false}
+  ]
+  },
+  {"question":"log₁₀10 = ?","options":[
+    {"text":"0","correct":false},
+    {"text":"1","correct":true},
+    {"text":"10","correct":false},
+    {"text":"-1","correct":false}
+  ]
+  },
+  {"question":"log₂1 = ?","options":[
+    {"text":"0","correct":true},
+    {"text":"1","correct":false},
+    {"text":"2","correct":false},
+    {"text":"-1","correct":false}
+  ]
+  },
+  {"question":"log₄64 = ?","options":[
+    {"text":"3","correct":true},
+    {"text":"4","correct":false},
+    {"text":"6","correct":false},
+    {"text":"8","correct":false}
+  ]
+  },
+  {"question":"log₉81 = ?","options":[
+    {"text":"2","correct":true},
+    {"text":"3","correct":false},
+    {"text":"4","correct":false},
+    {"text":"1","correct":false}
+  ]
+  },
+  {"question":"log₂32 = ?","options":[
+    {"text":"4","correct":false},
+    {"text":"5","correct":true},
+    {"text":"6","correct":false},
+    {"text":"3","correct":false}
+  ]
+  },
+  {"question":"log₁₀10⁻² = ?","options":[
+    {"text":"-2","correct":true},
+    {"text":"-1","correct":false},
+    {"text":"2","correct":false},
+    {"text":"1","correct":false}
+  ]
+  },
+  {"question":"log₃27 = ?","options":[
+    {"text":"2","correct":false},
+    {"text":"3","correct":true},
+    {"text":"1","correct":false},
+    {"text":"0","correct":false}
+  ]
+  }
+]

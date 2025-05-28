@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>MathTest – Теорія</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+  <meta name="theme-color" content="#4A90E2">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <nav class="nav">
+    <a href="index.html">Головна</a>
+    <a href="algebra.html">Алгебра</a>
+    <a href="geometry.html">Геометрія</a>
+    <a href="theory.html" class="active">Теорія</a>
+    <a href="about.html">Про нас</a>
+  </nav>
+</header>
+
+<main>
+  <h1>Теоретичні відомості</h1>
+
+  <div class="theory-tabs">
+    <button id="tab-algebra" class="tab-btn active">Алгебра</button>
+    <button id="tab-geometry" class="tab-btn">Геометрія</button>
+  </div>
+
+  <article class="theory-content">
+  <section id="content-algebra" class="tab-content active">
+    <h2>Алгебра</h2>
+
+    <h3>Формули скороченого множення</h3>
+    <ul>
+      <li>a² − b² = (a − b)(a + b)</li>
+      <li>(a + b)² = a² + 2ab + b²</li>
+      <li>(a − b)² = a² − 2ab + b²</li>
+    </ul>
+
+    <h3>Квадратне рівняння</h3>
+    <p>ax² + bx + c = 0, &nbsp;a ≠ 0</p>
+    <p>D = b² − 4ac</p>
+    <p>x₁,₂ = (−b ∓ √D) / (2a)</p>
+
+    <h3>Модуль числа</h3>
+    <p>|a| = { a, якщо a ≥ 0; &minus;a, якщо a < 0 }</p>
+
+    <h3>Степені</h3>
+    <ul>
+      <li>aᵐ·aⁿ = aᵐ⁺ⁿ</li>
+      <li>aᵐ / aⁿ = aᵐ⁻ⁿ</li>
+      <li>(aᵐ)ⁿ = aᵐⁿ</li>
+      <li>(ab)ⁿ = aⁿ bⁿ</li>
+      <li>a⁻ⁿ = 1/aⁿ (a ≠ 0)</li>
+      <li>a^(1/n) = √[n]{a}</li>
+    </ul>
+
+    <h3>Логарифми</h3>
+    <ul>
+      <li>logₐ(b·c) = logₐb + logₐc</li>
+      <li>logₐ(b/c) = logₐb − logₐc</li>
+      <li>logₐ(bⁿ) = n·logₐb</li>
+      <li>logₐa = 1, &nbsp; logₐ1 = 0</li>
+    </ul>
+
+    <h3>Арифметична прогресія</h3>
+    <p>aₙ = a₁ + (n − 1)d</p>
+    <p>Sₙ = (a₁ + aₙ)/2 · n</p>
+
+    <h3>Геометрична прогресія</h3>
+    <p>bₙ = b₁·q^(n−1) (q ≠ 1)</p>
+    <p>Sₙ = b₁·(qⁿ − 1)/(q − 1)</p>
+
+    <h3>Комбінаторика</h3>
+    <p>Pₙᵏ = n! / (n−k)! , &nbsp; Cₙᵏ = n! / (k!·(n−k)!)</p>
+
+    <h3>Теорія ймовірностей</h3>
+    <p>P(A) = k/n</p>
+  </section>
+
+  <!-- Геометрія -->
+  <section id="content-geometry" class="tab-content">
+    <h2>Геометрія</h2>
+
+    <h3>Елементарні фігури</h3>
+    <ul>
+      <li>Сума внутрішніх кутів n-кутника: (n − 2)·180°</li>
+      <li>Кількість діагоналей: n(n − 3)/2</li>
+    </ul>
+
+    <h3>Трикутник</h3>
+    <p>S = ½·a·b·sin γ</p>
+    <p>a² = b² + c² − 2bc·cos α (теорема косинусів)</p>
+    <p>a/sin α = b/sin β = c/sin γ = 2R (закон синусів)</p>
+
+    <h3>Паралелограм</h3>
+    <p>S = a·hₐ</p>
+
+    <h3>Ромб та трапеція</h3>
+    <p>Ромб: S = (d₁·d₂)/2</p>
+    <p>Трапеція: S = ((a + b)/2)·h</p>
+
+    <h3>Коло і круг</h3>
+    <p>C = 2πr, &nbsp; S = πr²</p>
+    <p>Сектор: S = πr²·(φ/360°), &nbsp; Дуга: l = 2πr·(φ/360°)</p>
+
+    <h3>Циліндр, конус, сфера</h3>
+    <p>Циліндр: V = πr²h, &nbsp; Sₚₒₗₙ = 2πr(h + r)</p>
+    <p>Конус: V = (1/3)πr²h, &nbsp; Sₚₒₗₙ = πr(l + r)</p>
+    <p>Сфера: V = (4/3)πr³, &nbsp; S = 4πr²</p>
+
+    <h3>Координати та вектори</h3>
+    <ul>
+      <li>Відстань AB: √((x₂−x₁)²+(y₂−y₁)²+(z₂−z₁)²)</li>
+      <li>Скалярний добуток: u·v = u₁v₁ + u₂v₂ + u₃v₃</li>
+      <li>cos φ = (u·v)/(‖u‖·‖v‖)</li>
+    </ul>
+  </section>
+  </article>
+</main>
+
+<footer class="site-footer">
+  <div class="footer-contacts">
+    <a href="shaidyukm@gmail.com">shaidyukm@gmail.com</a> |
+    <a href="tel:+380988206474">+380988206474</a>
+  </div>
+  <div class="footer-copy">Київ 2025</div>
+</footer>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const tabs = [
+      { btn: 'tab-algebra', content: 'content-algebra' },
+      { btn: 'tab-geometry', content: 'content-geometry' }
+    ];
+    tabs.forEach(({ btn, content }) => {
+      document.getElementById(btn).addEventListener('click', () => {
+        tabs.forEach(({ btn: b, content: c }) => {
+          document.getElementById(b).classList.remove('active');
+          document.getElementById(c).classList.remove('active');
+        });
+        document.getElementById(btn).classList.add('active');
+        document.getElementById(content).classList.add('active');
+      });
+    });
+  });
+</script>
+</body>
+</html>

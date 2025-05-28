@@ -1,0 +1,110 @@
+[
+  {
+    "question": "f(x) = x². Знайдіть f'(x).",
+    "options": [
+      { "text": "2x", "correct": true },
+      { "text": "x", "correct": false },
+      { "text": "x²", "correct": false },
+      { "text": "1", "correct": false }
+    ]
+  },
+  {
+    "question": "f(x) = 3x³. Знайдіть f'(x).",
+    "options": [
+      { "text": "9x²", "correct": true },
+      { "text": "3x²", "correct": false },
+      { "text": "x³", "correct": false },
+      { "text": "6x", "correct": false }
+    ]
+  },
+  {
+    "question": "f(x) = sin x. Знайдіть f'(x).",
+    "options": [
+      { "text": "cos x", "correct": true },
+      { "text": "-sin x", "correct": false },
+      { "text": "sin x", "correct": false },
+      { "text": "-cos x", "correct": false }
+    ]
+  },
+  {
+    "question": "f(x) = cos x. Знайдіть f'(x).",
+    "options": [
+      { "text": "-sin x", "correct": true },
+      { "text": "sin x", "correct": false },
+      { "text": "cos x", "correct": false },
+      { "text": "-cos x", "correct": false }
+    ]
+  },
+  {
+    "question": "f(x) = eˣ. Знайдіть f'(x).",
+    "options": [
+      { "text": "eˣ", "correct": true },
+      { "text": "xeˣ", "correct": false },
+      { "text": "1", "correct": false },
+      { "text": "ln e", "correct": false }
+    ]
+  },
+  {
+    "question": "f(x) = ln x. Знайдіть f'(x).",
+    "options": [
+      { "text": "1/x", "correct": true },
+      { "text": "ln x", "correct": false },
+      { "text": "x", "correct": false },
+      { "text": "eˣ", "correct": false }
+    ]
+  },
+  {
+    "question": "f(x) = 5. Знайдіть f'(x).",
+    "options": [
+      { "text": "0", "correct": true },
+      { "text": "5", "correct": false },
+      { "text": "1", "correct": false },
+      { "text": "-5", "correct": false }
+    ]
+  },
+  {
+    "question": "f(x) = x⁵. Знайдіть f'(x).",
+    "options": [
+      { "text": "5x⁴", "correct": true },
+      { "text": "x⁴", "correct": false },
+      { "text": "x⁵", "correct": false },
+      { "text": "4x⁵", "correct": false }
+    ]
+  },
+  {
+    "question": "f(x) = √x. Знайдіть f'(x).",
+    "options": [
+      { "text": "1/(2√x)", "correct": true },
+      { "text": "√x/2", "correct": false },
+      { "text": "2√x", "correct": false },
+      { "text": "1/x", "correct": false }
+    ]
+  },
+  {
+    "question": "f(x) = 1/x. Знайдіть f'(x).",
+    "options": [
+      { "text": "-1/x²", "correct": true },
+      { "text": "1/x²", "correct": false },
+      { "text": "-x", "correct": false },
+      { "text": "x⁻¹", "correct": false }
+    ]
+  },
+  {
+    "question": "f(x) = tan x. Знайдіть f'(x).",
+    "options": [
+      { "text": "sec² x", "correct": true },
+      { "text": "tan² x", "correct": false },
+      { "text": "1/cos² x", "correct": false },
+      { "text": "cos² x", "correct": false }
+    ]
+  },
+  {
+    "question": "f(x) = arcsin x. Знайдіть f'(x).",
+    "options": [
+      { "text": "1/√(1 - x²)", "correct": true },
+      { "text": "√(1 - x²)", "correct": false },
+      { "text": "1/(1 - x²)", "correct": false },
+      { "text": "1/(x√(1 - x²))", "correct": false }
+    ]
+  }
+]

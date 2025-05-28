@@ -1,0 +1,110 @@
+[
+  {
+    "question": "Скільки перестановок можна утворити з літер слова «CAT»?",
+    "options": [
+      { "text": "3", "correct": false },
+      { "text": "6", "correct": true },
+      { "text": "9", "correct": false },
+      { "text": "12", "correct": false }
+    ]
+  },
+  {
+    "question": "З 5 різних книг обирають 2. Скільки способів вибору?",
+    "options": [
+      { "text": "10", "correct": true },
+      { "text": "20", "correct": false },
+      { "text": "15", "correct": false },
+      { "text": "5", "correct": false }
+    ]
+  },
+  {
+    "question": "Скільки варіантів підряду по 2 елементи з множини {A,B,C,D}?",
+    "options": [
+      { "text": "12", "correct": false },
+      { "text": "6", "correct": false },
+      { "text": "16", "correct": false },
+      { "text": "12", "correct": false }
+    ]
+  },
+  {
+    "question": "Від 8 студентів обирають президента і секретаря. Скільки варіантів?",
+    "options": [
+      { "text": "56", "correct": true },
+      { "text": "64", "correct": false },
+      { "text": "42", "correct": false },
+      { "text": "48", "correct": false }
+    ]
+  },
+  {
+    "question": "Скільки слів довжини 4 можна скласти з букв A, B, C (повторення дозволені)?",
+    "options": [
+      { "text": "64", "correct": false },
+      { "text": "81", "correct": true },
+      { "text": "16", "correct": false },
+      { "text": "27", "correct": false }
+    ]
+  },
+  {
+    "question": "З 10 книг формують стопку з 3. Скільки різних стопок (без порядку)?",
+    "options": [
+      { "text": "120", "correct": false },
+      { "text": "720", "correct": false },
+      { "text": "120", "correct": false },
+      { "text": "120", "correct": false }
+    ]
+  },
+  {
+    "question": "Скільки чисел із трьох різних цифр можна утворити?",
+    "options": [
+      { "text": "120", "correct": false },
+      { "text": "504", "correct": false },
+      { "text": "720", "correct": false },
+      { "text": "720", "correct": false }
+    ]
+  },
+  {
+    "question": "Скільки способів вибрати голову та заступника з 7 осіб?",
+    "options": [
+      { "text": "42", "correct": true },
+      { "text": "49", "correct": false },
+      { "text": "56", "correct": false },
+      { "text": "35", "correct": false }
+    ]
+  },
+  {
+    "question": "Скільки різних наборів із 3 предметів можна взяти з 7 (порядок не важливий)?",
+    "options": [
+      { "text": "35", "correct": true },
+      { "text": "21", "correct": false },
+      { "text": "7", "correct": false },
+      { "text": "210", "correct": false }
+    ]
+  },
+  {
+    "question": "Перестановки трьох із п'яти об'єктів: скільки варіантів?",
+    "options": [
+      { "text": "60", "correct": true },
+      { "text": "20", "correct": false },
+      { "text": "10", "correct": false },
+      { "text": "125", "correct": false }
+    ]
+  },
+  {
+    "question": "Скільки способів розташувати 4 з 6 різних квіток у ряд?",
+    "options": [
+      { "text": "360", "correct": true },
+      { "text": "180", "correct": false },
+      { "text": "720", "correct": false },
+      { "text": "120", "correct": false }
+    ]
+  },
+  {
+    "question": "Скільки способів вибрати чорний і білий маркер з 5 різних?",
+    "options": [
+      { "text": "20", "correct": true },
+      { "text": "10", "correct": false },
+      { "text": "5", "correct": false },
+      { "text": "25", "correct": false }
+    ]
+  }
+]

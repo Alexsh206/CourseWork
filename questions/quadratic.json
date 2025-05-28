@@ -1,0 +1,86 @@
+[
+  {"question":"x² - 5x + 6 = 0, знайти корені","options":[
+    {"text":"1 та 6","correct":false},
+    {"text":"2 та 3","correct":true},
+    {"text":"-2 та -3","correct":false},
+    {"text":"-1 та -6","correct":false}
+  ]
+  },
+  {"question":"x² = 4, знайти x","options":[
+    {"text":"±1","correct":false},
+    {"text":"±2","correct":true},
+    {"text":"±3","correct":false},
+    {"text":"±4","correct":false}
+  ]
+  },
+  {"question":"x² + 4x + 4 = 0, знайти x","options":[
+    {"text":"-2","correct":true},
+    {"text":"2","correct":false},
+    {"text":"0","correct":false},
+    {"text":"-4","correct":false}
+  ]
+  },
+  {"question":"x² - x - 6 = 0, знайти корені","options":[
+    {"text":"3 та -2","correct":true},
+    {"text":"2 та -3","correct":false},
+    {"text":"-3 та 2","correct":false},
+    {"text":"-2 та 3","correct":false}
+  ]
+  },
+  {"question":"2x² - 8 = 0, знайти x","options":[
+    {"text":"±1","correct":false},
+    {"text":"±2","correct":true},
+    {"text":"±√2","correct":false},
+    {"text":"±4","correct":false}
+  ]
+  },
+  {"question":"x² - 9 = 0, знайти x","options":[
+    {"text":"±2","correct":false},
+    {"text":"±3","correct":true},
+    {"text":"±4","correct":false},
+    {"text":"±5","correct":false}
+  ]
+  },
+  {"question":"x² + x - 2 = 0, знайти корені","options":[
+    {"text":"1 та -2","correct":true},
+    {"text":"2 та -1","correct":false},
+    {"text":"-1 та 2","correct":false},
+    {"text":"-2 та 1","correct":false}
+  ]
+  },
+  {"question":"3x² - 12x + 12 = 0, знайти x","options":[
+    {"text":"2","correct":true},
+    {"text":"-2","correct":false},
+    {"text":"1","correct":false},
+    {"text":"-1","correct":false}
+  ]
+  },
+  {"question":"x² - 4x + 3 = 0, знайти корені","options":[
+    {"text":"1 та 3","correct":true},
+    {"text":"-1 та -3","correct":false},
+    {"text":"-3 та -1","correct":false},
+    {"text":"2 та 2","correct":false}
+  ]
+  },
+  {"question":"x² + 2x - 8 = 0, знайти корені","options":[
+    {"text":"2 та -4","correct":true},
+    {"text":"4 та -2","correct":false},
+    {"text":"-2 та 4","correct":false},
+    {"text":"-4 та 2","correct":false}
+  ]
+  },
+  {"question":"4x² - 4 = 0, знайти x","options":[
+    {"text":"±1","correct":true},
+    {"text":"±2","correct":false},
+    {"text":"±3","correct":false},
+    {"text":"±4","correct":false}
+  ]
+  },
+  {"question":"x² - 2x - 3 = 0, знайти корені","options":[
+    {"text":"3 та -1","correct":true},
+    {"text":"1 та -3","correct":false},
+    {"text":"-3 та 1","correct":false},
+    {"text":"-1 та 3","correct":false}
+  ]
+  }
+]
