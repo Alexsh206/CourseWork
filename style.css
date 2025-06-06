@@ -1,19 +1,8 @@
-html, body {
-  height: 100%;
-}
-body {
-  display: flex;
-  flex-direction: column;
-}
-main {
-  flex: 1;
-}
-
 :root {
   --color-bg: #f4f7fa;
   --color-surface: #ffffff;
   --color-primary: #4A90E2;
-  --color-secondary: #50E3C2;
+  --color-secondary: #49dcb9;
   --color-accent: #F5A623;
   --color-text: #333333;
   --color-text-light: #666666;
@@ -90,16 +79,38 @@ h1 {
 
 .topics2 {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 1.5rem;
   max-width: 1024px;
   margin: 2rem auto;
+  padding: 0 1rem;
 }
 
 .topics1 {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px,1fr));
   gap: 1.5rem;
+}
+
+@media (max-width: 500px) {
+  .topics {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+  main {
+    padding: 1rem 0;
+  }
+
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+main {
+  flex: 1;
 }
 
 .topic-card {
@@ -181,6 +192,13 @@ button:active {
   margin-top: 1rem;
 }
 
+.options {
+  display: grid;
+  grid-auto-flow: column;
+  grid-gap: 1rem;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+}
 
 .question-block {
   margin-bottom: 1.5rem;
@@ -217,6 +235,43 @@ button:active {
   background: var(--color-accent);
 }
 
+.correct-answer {
+  background: var(--color-secondary);
+  color: #fff;
+}
+
+.option-btn.correct-option {
+  background-color: #4CAF50 !important;
+  color: #fff;
+}
+
+
+.option-btn.wrong-option {
+  background-color: #f44336 !important;
+  color: #fff;
+}
+
+
+#feedback {
+  margin-top: 0.5em;
+  font-weight: bold;
+}
+
+#feedback.feedback-correct {
+  color: #4CAF50;
+}
+
+#feedback.feedback-wrong {
+  color: #f44336;
+}
+
+.question-block {
+  text-align: center;
+}
+
+#next-btn {
+  margin-top: 1.5rem;;
+}
 
 #next-btn,
 #start-btn {
@@ -296,7 +351,7 @@ button:active {
   color: #fff;
 }
 
-/* --- Контент табів --- */
+
 .tab-content {
   display: none;
   max-width: 800px;
@@ -311,17 +366,17 @@ button:active {
 }
 
 .theory-content {
-  width: 50vw;        /* 50% від ширини viewport */
-  max-width: none;    /* прибираємо обмеження в 800px */
-  min-height: 50vh;   /* залишається півекрану по висоті */
-  margin: 0 auto 2rem;/* центр по горизонталі */
+  width: 50vw;
+  max-width: none;
+  min-height: 50vh;
+  margin: 0 auto 2rem;
   padding: 1.5rem;
   background: var(--color-surface);
   border-radius: 8px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.05);
 }
 
-/* --- Про нас --- */
+
 .page-intro {
   max-width: 800px;
   margin: 2rem auto;
@@ -383,6 +438,8 @@ button:active {
 .about-contact a:hover {
   text-decoration: underline;
 }
+
+
 
 @media (max-width: 600px) {
   h1 { font-size: 1.75rem; }
